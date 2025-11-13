@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<benutzer>
+    <eintrag>
+        <name>Alice</name>
+        <alter>30</alter>
+        <stadt>Berlin</stadt>
+    </eintrag>
+    <eintrag>
+        <name>Bob</name>
+        <alter>25</alter>
+        <stadt>München</stadt>
+    </eintrag>
+    <eintrag>
+        <name>Stefan</name>
+        <alter>15</alter>
+        <stadt>Iserlohn</stadt>
+    </eintrag>
+</benutzer>
